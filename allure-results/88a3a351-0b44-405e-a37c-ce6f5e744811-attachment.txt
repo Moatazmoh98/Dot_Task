@@ -1,0 +1,14 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                      Test Method: 'pages.loginTestCases.loginWithCorrectEmailAndPassword'                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "Username" @17-02-2025 20:42:36.0564 PM
+[ReportManager] Type "Password" @17-02-2025 20:42:36.0780 PM
+[ReportManager] Click "Login" @17-02-2025 20:42:37.0108 PM
+[ReportManager] Verify that the element located by "By.xpath: //a[@class='shopping_cart_link']" exists. @17-02-2025 20:42:37.0165 PM
+[ReportManager] Expected "true", and actual "true" @17-02-2025 20:42:37.0494 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-42-39-824_17022025' @17-02-2025 20:42:39.0828 PM
+[ReportManager] Expected "true", and actual "true" @17-02-2025 20:42:39.0829 PM
+[ReportManager] Verification passed @17-02-2025 20:42:39.0830 PM
